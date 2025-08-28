@@ -1,0 +1,4 @@
+This is the first file in my first_branch in git under the repo CS53115. 
+Let's see how much we can work here. 
+A branch is an independent line of development. Imagine you want to add a "conclusion" to your essay, but you're not sure if the final draft will include it. You can create a new branch to work on the conclusion without affecting the original essay. This lets you work on new ideas without messing up the main version.
+
