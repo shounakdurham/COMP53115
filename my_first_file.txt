@@ -1,0 +1,3 @@
+I am Shounak. 
+This is our new course. 
+We will learn git here. 
